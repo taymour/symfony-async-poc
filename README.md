@@ -14,7 +14,7 @@ This project demonstrates how to execute service methods asynchronously in a Sym
 
 ## How to Test
 
-1. Add the `#[Async]` attribute to a service method, for example:
+1. Add the `#[Async]` attribute to a service method (like in ArticleCreator), for example:
 
    ```php
    #[Async]
