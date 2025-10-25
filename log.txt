@@ -1,0 +1,23 @@
+Arg 0: /home/taymik/test/taker/src/Go/../../bin/boost.php
+Arg 1: --service=App\Creator\ArticleCreator
+Arg 2: --method=create
+Arg 3: --params=toto
+Arg 0: /home/taymik/test/taker/src/Go/../../bin/boost.php
+Arg 1: --service=App\Creator\ArticleCreator
+Arg 2: --method=create
+Arg 3: --params=toto
+Arg 0: /home/taymik/test/taker/src/Go/../../bin/boost.php
+Arg 1: --service=App\Creator\ArticleCreator
+Arg 2: --method=create
+Arg 3: --params=toto
+Arg 0: /home/taymik/test/taker/src/Go/../../bin/boost.php
+Arg 1: --service=App\Creator\ArticleCreator
+Arg 2: --method=create
+Arg 3: --params=toto
+Arg 0: /home/taymik/test/taker/src/Go/../../bin/boost.php
+Arg 1: --service=App\Creator\ArticleCreator
+Arg 2: --method=create
+Arg 3: --params=toto
+symfony console go:boost '--service=App\Creator\ArticleCreator' '--method=create' '--params=toto'
+symfony console go:boost '--service=App\Creator\ArticleCreator' '--method=create' '--params=toto'
+symfony console go:boost '--service=App\Creator\ArticleCreator' '--method=create' '--params=toto'
